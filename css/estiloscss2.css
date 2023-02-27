@@ -1,4 +1,7 @@
 /* comen de css */
-html [
-backgroud-color: blue;
-]
+html 
+{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
